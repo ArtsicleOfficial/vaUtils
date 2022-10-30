@@ -1,0 +1,11 @@
+{
+	"name":"vaUtils",
+	"url":"https://github.com/ArtsicleOfficial/vaUtils",
+	"license":"MIT",
+	"tags": ["utility","utilities","misc"],
+	"description": "Provides lerp, collision, etc.",
+	"version":"1.0.0",
+	"classPath": "src/",
+	"releasenote": "Created library",
+	"contributors": ["ArtsicleOfficial"]
+}
